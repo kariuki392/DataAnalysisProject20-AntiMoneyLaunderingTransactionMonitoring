@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "/opt/miniconda3/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.pythonPath": "/opt/miniconda3/bin/python",
+  "pylance.analysis.typeCheckingMode": "basic",
+  "pylance.pythonPath": "/opt/miniconda3/bin/python"
+}
